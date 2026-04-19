@@ -1,4 +1,5 @@
-# Staging Preview Test
-This repo exists solely for capability verification.
+// deploy-recovery-proof-1776603547693
 
-<!-- deploy-failure-proof-1776601288 -->
+# staging-preview-test
+
+Staging test repo for capability verification — preview deploys.
